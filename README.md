@@ -8,7 +8,7 @@ npm install
 
 启动项目
 ```shell
-$ npm start serve
+npm start serve
 ```
 
 打开浏览器，访问 [http://localhost:3000/](http://localhost:3000)
