@@ -1,0 +1,76 @@
+
+.CartShop-left-img>div:nth-child(1) {
+  height: 100px;
+  justify-content: center;
+}
+
+.ShoppingCart-shop {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid black;
+  margin-bottom: 5px;
+
+}
+
+.ShoppingCart-shop>div:nth-child(1) {
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.CartShop-right-img {
+  flex-grow: 1;
+  padding-left: 5px;
+}
+
+.CartShop-right-img>div:nth-child(3) {
+  justify-content: space-between;
+  flex-grow: 1;
+  padding-top: 20px;
+}
+.CartShop-right-img>div:nth-child(3) > div > p{
+  color: red;
+  font-weight: bold;
+}
+.CartShop-right-img>div:nth-child(2){
+  padding: 10px 0;
+}
+
+.ShoppingCart-contents {
+  background-color: rgb(228, 225, 225);
+  align-items: center;
+  flex-grow: 1;
+  overflow: auto;
+}
+
+.ShoppingCart-Closing {
+  height: 50px;
+  border: 1px solid rgb(218, 199, 199);
+  padding: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ShoppingCart-Closing>div:nth-child(1)>p {
+  line-height: 50%;
+  padding-left: 10px;
+  
+
+}
+
+.ShoppingCart-Closing>div:nth-child(1) {
+  align-items: center;
+  
+}
+.ShoppingCart-Closing > div:nth-child(2) > div{
+  align-items: center;
+  
+}
+
+.ShoppingCart-Closing>div:nth-child(2)>button {
+  background-color: red;
+  width: 100px;
+  border-radius: 25px;
+  height: 34px;
+  border: none;
+  
+}

@@ -1,0 +1,119 @@
+.flex {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.adm-side-bar-item-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.list-shop {
+  border: 1px solid rgba(105, 105, 105, 0.818);
+  width: 100%;
+  /* flex-grow: 1; */
+  /* height: 120px; */
+}
+
+/* 左侧烂 ???? */
+/* .adm-side-bar {
+  width: 120px;
+  overflow: auto;
+  height: 100vh;
+} */
+
+.left-shop {
+  width: 20px;
+  flex-grow: 1;
+}
+
+.right-shop {
+  flex-grow: 2.2;
+  width: 0;
+  padding: 5px 10px;
+}
+
+.left-shop>div>img {
+  width: 100%;
+  height: 100%;
+  padding: 4.5px;
+}
+
+.left-shop>div {
+  width: 100%;
+  height: 100px;
+}
+.Classification-shop{
+  /* flex-grow: 1; */
+  height: 100vh;
+  width: 100%;
+  overflow: auto;
+}
+
+.wrap{
+  height: 100vh;
+  /* overflow: auto; */
+  overflow: hidden;
+  
+}
+.gz{
+  height: 50px;
+  width: 1px;
+}
+.shop-top{
+  width: 100%;
+}
+.wrap> div:nth-child(2){
+  flex-grow: 1;
+}
+.right-shop> p{
+  font-weight: bold;
+  font-size: 15px;
+}
+.right-shop >div:nth-child(2){
+  padding: 7px;
+}
+
+/* 商品满赠图片 */
+.mz{
+  width: 37px;
+  height: 15px;
+}
+.mz > img {
+  width: 100%;
+  height: 100%;
+}
+.add-to-cart {
+  align-items: center;
+  justify-content:space-between;
+}
+
+.add-to-cart > div:nth-child(1)> p:nth-child(1){
+  color: red;
+  font-size: 17px;
+  font-weight: bold;
+}
+.add-to-cart > div:nth-child(1)> p:nth-child(2){
+  color: black;
+  font-weight: bold;
+}
+.add-to-cart > div:nth-child(1)> div:nth-child(3){
+  width: 26px;
+  height: 26px;
+}
+.add-to-cart > div:nth-child(1)>  div:nth-child(3) > img{
+  width: 100%;
+}
+.add-to-cart > div:nth-child(2) {
+  width: 26px;
+}
+.add-to-cart > div:nth-child(2) > img{
+  width: 100%;
+}
+
+
+/* inventory 库存 */
+/* ptkey 商品id */
