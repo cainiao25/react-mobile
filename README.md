@@ -16,7 +16,5 @@ npm start serve
 打开浏览器，访问 [http://localhost:3000/](http://localhost:3000)
 
 <video src="https://github.com/cainiao25/react-mobile/blob/main/1.mp4"></video>
-![image]([https://github.com/xuqian1994/HorizontalRuler/blob/master/app/src/main/screenshot/ruler.gif](https://github.com/cainiao25/react-mobile/blob/main/1.mp4))
-https://github.com/cainiao25/react-mobile/blob/main/1.mp4
 
 ![](https://github.com/cainiao25/react-mobile/blob/main/1.mp4)
