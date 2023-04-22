@@ -16,4 +16,4 @@ npm start serve
 打开浏览器，访问 [http://localhost:3000/](http://localhost:3000)
 
 <video src="../1.mp4"></video>
-<iframe height=498 width=510 src="../1.mp4">
+<iframe height=498 width=510 src="./1.mp4">
