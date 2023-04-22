@@ -19,4 +19,4 @@ npm start serve
 ![image]([https://github.com/xuqian1994/HorizontalRuler/blob/master/app/src/main/screenshot/ruler.gif](https://github.com/cainiao25/react-mobile/blob/main/1.mp4))
 https://github.com/cainiao25/react-mobile/blob/main/1.mp4
 
-![](https://oscimg.oschina.net/oscnet/up-937a63d5e13869c40e6f1437452171d8235.png)
+![](https://github.com/cainiao25/react-mobile/blob/main/1.mp4)
