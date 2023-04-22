@@ -15,8 +15,3 @@ npm start serve
 
 打开浏览器，访问 [http://localhost:3000/](http://localhost:3000)
 
-<video src="https://github.com/cainiao25/react-mobile/blob/main/1.gif"></video>
-
-![](https://github.com/cainiao25/react-mobile/blob/main/1.gif)
-
-![输入图片说明](https://github.com/cainiao25/react-mobile/blob/main/1.gif "在这里输入图片标题")
